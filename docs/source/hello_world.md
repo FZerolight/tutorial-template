@@ -5,13 +5,15 @@
 测试++
 
 See if its wide enough
-
-<iframe src="//player.bilibili.com/player.html?aid=663264375&bvid=BV1na4y1S71n&cid=1330603909&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 100%;height:100%"> </iframe>
+<div>
+<iframe src="//player.bilibili.com/player.html?aid=663264375&bvid=BV1na4y1S71n&cid=1330603909&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="100%" > </iframe>
+</div>
 
 测试--
 
 测试2++
-
-<iframe src="//player.bilibili.com/player.html?aid=235649872&bvid=BV1Re411X7P6&cid=1325613599&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<div>
+<iframe src="//player.bilibili.com/player.html?aid=235649872&bvid=BV1Re411X7P6&cid=1325613599&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="100%"> </iframe>
+</div>
 
 测试2--
