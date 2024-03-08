@@ -13,7 +13,9 @@ See if its wide enough
 
 测试2++
 <div>
-<iframe src="//player.bilibili.com/player.html?aid=235649872&bvid=BV1Re411X7P6&cid=1325613599&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="100%"> </iframe>
+
+<iframe src="//www.bilibili.com/blackboard/html5mobileplayer.html?aid=235649872&bvid=BV1Re411X7P6&cid=1325613599&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="100%"> </iframe>
+
 </div>
 
 测试2--
